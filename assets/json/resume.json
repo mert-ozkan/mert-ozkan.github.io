@@ -23,7 +23,7 @@
       }
     ]
   },
-  
+
   "education": [
     {
       "institution": "Dartmouth College",
@@ -48,45 +48,39 @@
     {
       "name": "Programming",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Python", "R", "MATLAB", "Object Oriented Programming"
-      ]
+      "keywords": ["Python", "R", "MATLAB", "Object Oriented Programming"]
     },
     {
       "name": "Experiment Design & Analysis",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Psychtoolbox", "Quest", "Palamedes", "MNE", "FieldTrip", "SciPy", "Scikit–Learn", "rstatix", "lme4"
-      ]
+      "keywords": ["Psychtoolbox", "Quest", "Palamedes", "MNE", "FieldTrip", "SciPy", "Scikit–Learn", "rstatix", "lme4"]
     },
     {
       "name": "Data Handling & Visualization",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "pandas", "NumPy", "tidyverse", "dplyr", "SQL (learning)", "seaborn", "matplotlib", "ggplot2", "UMAP"
-      ]
+      "keywords": ["pandas", "NumPy", "tidyverse", "dplyr", "SQL (learning)", "seaborn", "matplotlib", "ggplot2", "UMAP"]
     },
     {
       "name": "Approaches & Methodologies",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Psychophysics (Signal Detection Theory, Psychometry, Adaptive Procedures)", "EEG (ERPs, Steady-State Visually Evoked Potentials, Time–Frequency Analyses)", "Eye–Tracking (Eyelink)"
+        "Psychophysics (Signal Detection Theory, Psychometry, Adaptive Procedures)",
+        "EEG (ERPs, Steady-State Visually Evoked Potentials, Time–Frequency Analyses)",
+        "Eye–Tracking (Eyelink)"
       ]
     },
     {
       "name": "Signal Processing",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Fast Fourier Transforms", "Empirical Mode Decomposition", "Filtering (FIR, IIR)", "Wavelets", "Hilbert transform"
-      ]
+      "keywords": ["Fast Fourier Transforms", "Empirical Mode Decomposition", "Filtering (FIR, IIR)", "Wavelets", "Hilbert transform"]
     },
     {
       "name": "Machine Learning & Modeling",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Optimization (Maximum Likelihood Estimation, Ordinary Least Squares)", 
-        "Classification (Support Vector Machines, K-Nearest Neighbor, Logistic Regression)", 
-        "Dimensionality Reduction (Independent Component Analysis, Principal Component Analyses)", 
+        "Optimization (Maximum Likelihood Estimation, Ordinary Least Squares)",
+        "Classification (Support Vector Machines, K-Nearest Neighbor, Logistic Regression)",
+        "Dimensionality Reduction (Independent Component Analysis, Principal Component Analyses)",
         "Modelling (Inverted Encoding Models, Psychometric Curve Fitting, The Normalization Model)"
       ]
     },
@@ -130,7 +124,7 @@
       "url": " https://doi.org/10.1016/j.cortex.2022.02.013",
       "summary": ""
     }
-  ],  
+  ],
   "languages": [
     {
       "language": "English",
