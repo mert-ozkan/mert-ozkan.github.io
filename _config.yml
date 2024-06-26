@@ -309,7 +309,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Ozkan]
+  last_name: ["Ozkan", "Özkan"]
   first_name: [Mert]
 
   style: apa
