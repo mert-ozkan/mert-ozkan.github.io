@@ -5,13 +5,14 @@ permalink: /
 subtitle:
 
 profile:
-  align: center
+  text-align: center
   image: Mert-Ozkan.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>3 Maynard St</p>
     <p>HB 6207<p>
-    <p>Moore Hall, Dartmouth College</p>
+    <p>Moore Hall<p>
+    <p>Dartmouth College</p>
     <p>Hanover, NH 03755</p>
 
 news: false # includes a list of news items
