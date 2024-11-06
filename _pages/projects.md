@@ -5,7 +5,7 @@ title: projects
 description: github repositories
 nav: true
 nav_order: 3
-horizontal: true
+horizontal: false
 ---
 
 {% assign sorted_projects = site.projects | sort: "importance" %}
