@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Inverted Encoding Models on SSVEP data with Alignment
-description: with background image
+title: Inverted Encoding Models (IEMs) on SSVEP data with Alignment
+description: An alignment method to improve IEMs on SSVEP designs with multiple stimulations frequencies.
 # img: assets/img/12.jpg
 importance: 1
 ---
